@@ -15,7 +15,7 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 ![Pavel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
 
 ## 🌟 Highlighted Projects
-- [Project Name 1](https://github.com/PavBrian/Data_Science_projects/blob/main/kaggle_model.ipynb) - A brief description.
+- [Media Compaign](https://github.com/PavBrian/Data_Science_projects/blob/main/kaggle_model.ipynb) - A brief description.
 - [Project Name 2](GitHub link to Project 2) - A brief description.
 - [Project Name 3](GitHub link to Project 3) - A brief description.
 
