@@ -8,7 +8,6 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 - 💬 Ask me about equity trading, financial markets analysis, and cryptocurrency research.
 - 📫 How to reach me: [pavel.bryantsev@gmail.com](mailto:pavel.bryantsev@gmail.com).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I enjoy exploring the intricate world of digital assets and cryptocurrencies.
 
 ## 🌟 Highlighted Projects
 - [Web3 Funding](https://github.com/PavBrian/Data_Analysis_projects/blob/main/Web3_Funding) - The data analysis project aims to explore and understand the funding landscape of Web3 projects over the past seven years.
@@ -18,7 +17,7 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 ## 👨‍💻 Skills & Technologies
 - Python, SQL
 - Data Visualization (Matplotlib, Seaborn, Plotly, Tableau)
-- Machine Learning (scikit-learn, catboost)
+- Machine Learning (scikit-learn)
 - Extensive knowledge in probability, statistics, and linear algebra
 
 ## 📫 Connect with Me
