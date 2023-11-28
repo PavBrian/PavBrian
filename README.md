@@ -10,9 +10,6 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I enjoy exploring the intricate world of digital assets and cryptocurrencies.
 
-## 📈 My GitHub Stats
-![Pavel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
-
 ## 🌟 Highlighted Projects
 - [Media Compaign](https://github.com/PavBrian/Data_Science_projects/blob/main/kaggle_model.ipynb) - A brief description.
 - [Project Name 2](GitHub link to Project 2) - A brief description.
