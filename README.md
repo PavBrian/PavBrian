@@ -11,7 +11,7 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 - ⚡ Fun fact: I enjoy exploring the intricate world of digital assets and cryptocurrencies.
 
 ## 🌟 Highlighted Projects
-- [Media Compaign](https://github.com/PavBrian/Data_Science_projects/blob/main/kaggle_model.ipynb) - A brief description.
+- [Web3 Funding](https://github.com/PavBrian/Data_Analysis_projects/blob/main/Web3_Funding) - The data analysis project aims to explore and understand the funding landscape of Web3 projects over the past seven years.
 - [Project Name 2](GitHub link to Project 2) - A brief description.
 - [Project Name 3](GitHub link to Project 3) - A brief description.
 
