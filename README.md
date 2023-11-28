@@ -3,7 +3,6 @@
 I'm a Data Analyst based in the United Kingdom, transitioning from a finance professional role. My expertise lies in analyzing financial data to solve complex business problems. With a strong background in financial markets and equity trading, and skills in Python, SQL, machine learning, and data visualization, I aim to provide impactful insights through data analysis.
 
 ## 🚀 About Me
-- 🔭 I’m currently working as a Venture Capital Analyst / Data Analyst at UF Ventures and as a Quantitative Analyst at Kyrrex.com.
 - 🌱 I’m continuously enhancing my skills in machine learning and data visualization.
 - 👯 I’m interested in collaborating on data-driven projects, especially in finance and investments.
 - 💬 Ask me about equity trading, financial markets analysis, and cryptocurrency research.
@@ -29,13 +28,3 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 - LinkedIn: [Pavel Briantsev](https://www.linkedin.com/in/pavel-bryantsev/)
 - Fluent in English and Russian
 
-## 💼 Work Experience
-- UF Ventures (2022-Present)
-- Kyrrex.com (2021-Present)
-- Tres Commas (2019-2021)
-- Smart-Group (2014-2017)
-
-## 🎓 Education
-- Bachelor Degree in Business Administration, Wisconsin International University
-
-> Replace `[YourGitHubUsername]` and `GitHub link to Project` with your actual GitHub username and project links.
