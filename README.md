@@ -14,6 +14,9 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 - [Project Name 2](GitHub link to Project 2) - A brief description.
 - [Project Name 3](GitHub link to Project 3) - A brief description.
 
+## Tableau Projects
+- [Link to Tableau Public](https://public.tableau.com/app/profile/pavel.briantsev/vizzes)
+
 ## 👨‍💻 Skills & Technologies
 - Python, SQL
 - Data Visualization (Matplotlib, Seaborn, Plotly, Tableau)
