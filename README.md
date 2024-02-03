@@ -11,8 +11,7 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 
 ## 🌟 Highlighted Projects
 - [Web3 Funding](https://github.com/PavBrian/Data_Analysis_projects/blob/main/Web3_Funding) - The data analysis project aims to explore and understand the funding landscape of Web3 projects over the past seven years.
-- [Project Name 2](GitHub link to Project 2) - A brief description.
-- [Project Name 3](GitHub link to Project 3) - A brief description.
+- [Rossman Store Sales](https://github.com/PavBrian/Data_Analysis_projects/tree/main/rossma_store) - EDA analysis of the Famouse Rossman Store sales data.
 
 ## Tableau Projects
 - [Link to Tableau Public](https://public.tableau.com/app/profile/pavel.briantsev/vizzes)
