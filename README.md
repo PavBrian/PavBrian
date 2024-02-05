@@ -18,7 +18,7 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 
 ## 👨‍💻 Skills & Technologies
 - Python, SQL
-- Data Visualization (Matplotlib, Seaborn, Plotly, Tableau)
+- Data Visualization (Matplotlib, Seaborn, Plotly, Tableau, Power BI)
 - Machine Learning (scikit-learn)
 - Extensive knowledge in probability, statistics, and linear algebra
 
