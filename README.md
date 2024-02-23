@@ -12,7 +12,8 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 ## 🌟 Highlighted Projects
 - [Web3 Funding](https://github.com/PavBrian/Data_Analysis_projects/blob/main/Web3_Funding) - The data analysis project aims to explore and understand the funding landscape of Web3 projects over the past seven years.
 - [Rossman Store Sales](https://github.com/PavBrian/Data_Analysis_projects/tree/main/rossma_store) - EDA analysis of the Famouse Rossman Store sales data.
-- [Time Series Analysis](https://github.com/PavBrian/algo_strategies) - LSTMs, ARIMA, Deep Learning, AI for Time Series Forecasting. 
+- [Time Series Analysis](https://github.com/PavBrian/algo_strategies) - LSTMs, ARIMA, Deep Learning, AI for Time Series Forecasting.
+- [Algorithmic Strategies](https://github.com/PavBrian/algo_strategies) - Backtesting different strategies.
 
 ## Tableau Projects
 - [Link to Tableau Public](https://public.tableau.com/app/profile/pavel.briantsev/vizzes)
