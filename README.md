@@ -14,7 +14,6 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 - [Crypto Sector Performance Analysis](https://github.com/PavBrian/Data_Analysis_projects/blob/main/crypto%20_sector_perfomance) - A comprehensive analysis of the crypto sector's performance.
 - [Rossman Store Sales](https://github.com/PavBrian/Data_Analysis_projects/tree/main/rossma_store) - EDA analysis of the Famouse Rossman Store sales data.
 - [Time Series Analysis](https://github.com/PavBrian/time_series_analysis) - LSTMs, ARIMA, Deep Learning, AI for Time Series Forecasting.
-- [Algorithmic Strategies](https://github.com/PavBrian/algo_strategies) - Backtesting different strategies.
 
 ## Tableau Projects
 - [Link to Tableau Public](https://public.tableau.com/app/profile/pavel.briantsev/vizzes)
