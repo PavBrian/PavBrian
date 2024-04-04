@@ -15,8 +15,7 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 - [Rossman Store Sales](https://github.com/PavBrian/Data_Analysis_projects/tree/main/rossma_store) - EDA analysis of the Famouse Rossman Store sales data.
 - [Time Series Analysis](https://github.com/PavBrian/time_series_analysis) - LSTMs, ARIMA, Deep Learning, AI for Time Series Forecasting.
 
-## Tableau Projects
-- [Link to Tableau Public](https://public.tableau.com/app/profile/pavel.briantsev/vizzes)
+
 
 ## 👨‍💻 Skills & Technologies
 - Python, SQL
