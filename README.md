@@ -3,7 +3,7 @@
 I'm a Data Analyst based in the United Kingdom, transitioning from a finance professional role. My expertise lies in analyzing financial data to solve complex business problems. With a strong background in financial markets and equity trading, and skills in Python, SQL, machine learning, and data engineering, I aim to provide impactful insights through data analysis.
 
 ## 🚀 About Me
-- 🌱 I’m continuously enhancing my skills in machine learning and data visualization.
+- 🌱 I’m continuously enhancing my skills in machine learning and data engineering.
 - 👯 I’m interested in collaborating on data-driven projects, especially in finance and investments.
 - 💬 Ask me about equity trading, financial markets analysis, and cryptocurrency research.
 - 📫 How to reach me: [pavel.bryantsev@gmail.com](mailto:pavel.bryantsev@gmail.com).
@@ -19,9 +19,10 @@ I'm a Data Analyst based in the United Kingdom, transitioning from a finance pro
 
 ## 👨‍💻 Skills & Technologies
 - Python, SQL
+- Snowflake, AWS, Airflow
 - Data Visualization (Matplotlib, Seaborn, Plotly, Tableau, Power BI)
-- Machine Learning
-- Extensive knowledge in probability, statistics, and linear algebra
+- Machine Learning (Sklearn, PyTorch)
+- Extensive knowledge in probability, statistics, and linear algebra.
 
 ## 📫 Connect with Me
 - LinkedIn: [Pavel Briantsev](https://www.linkedin.com/in/pavel-bryantsev/)
