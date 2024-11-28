@@ -1,6 +1,6 @@
 # Hello, I'm Pavel Briantsev!
 
-I'm a Data Analyst based in the United Kingdom, transitioning from a finance professional role. My expertise lies in analyzing financial data to solve complex business problems. With a strong background in financial markets and equity trading, and skills in Python, SQL, machine learning, and data visualization, I aim to provide impactful insights through data analysis.
+I'm a Data Analyst based in the United Kingdom, transitioning from a finance professional role. My expertise lies in analyzing financial data to solve complex business problems. With a strong background in financial markets and equity trading, and skills in Python, SQL, machine learning, and data engineering, I aim to provide impactful insights through data analysis.
 
 ## 🚀 About Me
 - 🌱 I’m continuously enhancing my skills in machine learning and data visualization.
